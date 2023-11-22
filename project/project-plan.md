@@ -48,5 +48,3 @@ about various economic indicators and stock market trends.
 4. Examine and assess the Resulting Data
 5. Make inferences
 
-
-[i1]: https://github.com/jvalue/made-template/issues/1
